@@ -62,3 +62,7 @@ Mediante el uso de una caché con la librería [cache4k](https://github.com/Reac
   </a>
 
 </p>
+
+### Autores:
+- [Daniel Rodriguez Muñoz](https://github.com/Idliketobealoli)
+- [Iván Azagra Troya](https://github.com/IvanAzagraTroya)
